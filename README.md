@@ -26,6 +26,7 @@ Note :
 ### Torrent
 - [Academic Torrents](https://academictorrents.com/)
 ### Forums
+- ⭐[Tutflix](https://tutflix.org/)
 - [onehack.us](https://onehack.us/)
 ---
 # Movies
