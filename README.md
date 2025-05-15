@@ -10,6 +10,7 @@ Your ultimate pirate crew for everything free. Dive into a vast sea of content w
 ## Paywalls
 ### Websites
 - [Free Medium](https://freedium.cfd/)
+- [Quillbot Premium Helper](https://github.com/blueagler/QuillBot-Premium-Helper)
 ---
 # Courses
 ### Websites
