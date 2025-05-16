@@ -23,6 +23,7 @@ Note :
 # Courses
 ### Websites
 - [Course Club](https://courseclub.site/)
+- [online-course](https://online-courses.club/)
 ### Torrent
 - [Academic Torrents](https://academictorrents.com/)
 ### Forums
