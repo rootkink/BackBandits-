@@ -32,6 +32,7 @@ Note :
 
 ### Telegram
 - [Course Busters](https://t.me/joinchat/rtwysChrKvg3ZmE0)
+- [MEGA Community](https://t.me/megacoursenew) : Courses in graphics and design
 ---
 # Movies
 ## download Movies
