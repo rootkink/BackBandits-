@@ -8,6 +8,9 @@ Note :
 - 🛠️ Foss/open source
 - ❓ Suspicious
 - 💀 Dead
+
+# Pirate
+- [Download Pirate](https://www.downloadpirate.com/)
   
 # Bypass
 ## Annoying Links
